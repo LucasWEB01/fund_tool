@@ -1,0 +1,24 @@
+
+@charset "utf-8";
+/* CSS Document 
+ mais um comando de comentario de código, somente para CSS.
+*/
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+/* background-color: rgb(40, 38, 110); */
+}
+
+
+body{
+   margin:0%;
+   padding:0%;
+   background:linear-gradient(to right, green, yellow,red);
+}
+header{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: rgb(255, 254, 254);
